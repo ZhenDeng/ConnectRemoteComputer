@@ -1,0 +1,15 @@
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\obj\Debug\ConnectRemoteComputer.csprojResolveAssemblyReference.cache
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\obj\Debug\MainWindow.g.cs
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\obj\Debug\App.g.cs
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\obj\Debug\ConnectRemoteComputer_MarkupCompile.cache
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\obj\Debug\ConnectRemoteComputer_MarkupCompile.lref
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\bin\Debug\ConnectRemoteComputer.exe.config
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\bin\Debug\ConnectRemoteComputer.exe
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\bin\Debug\ConnectRemoteComputer.pdb
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\obj\Debug\MainWindow.baml
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\obj\Debug\ConnectRemoteComputer.g.resources
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\obj\Debug\ConnectRemoteComputer.Properties.Resources.resources
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\obj\Debug\ConnectRemoteComputer.csproj.GenerateResource.cache
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\obj\Debug\ConnectRemoteComputer.csproj.CoreCompileInputs.cache
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\obj\Debug\ConnectRemoteComputer.exe
+C:\Users\jxyct\source\repos\ConnectRemoteComputer\ConnectRemoteComputer\obj\Debug\ConnectRemoteComputer.pdb
